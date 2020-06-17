@@ -1,0 +1,55 @@
+.UrlShortner {
+  font-family: Calibri;
+  top: 150px;
+  left: 660px;
+  position: absolute;
+
+  height: 117px;
+  width: 511px;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.Rect4Stack {
+  width: 551px;
+  height: 117px;
+  margin-top: 75px;
+  margin-left: 113px;
+  position: relative;
+}
+
+.Rect4 {
+  top: 0px;
+  left: 0px;
+  width: 443px;
+  height: 117px;
+  position: absolute;
+  flex-direction: column;
+  display: flex;
+}
+
+.Switch {
+  width: 45;
+  height: 23;
+  margin-top: 10;
+  margin-left: 398;
+  box-shadow: '5px 5px 0px  0px undefined ';
+}
+
+.PoweredByDscTiet {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: regular;
+  height: 25px;
+  width: 289px;
+  margin-top: 59px;
+  margin-left: 254px;
+}
+.Image {
+  width: 80%;
+  height: 200px;
+  background-size: cover;
+  color: black;
+  background-image: linear-gradient(to bottom left, #b6b4c2, #aac9ce);
+}
