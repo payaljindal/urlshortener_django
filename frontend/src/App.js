@@ -23,12 +23,11 @@ const App = () => {
               <Switch onClick={themeToggler}>Switch Theme</Switch>
             </div>
           </div>
-          <span className="UrlShortner">URL Shortner</span>
+          <span className="UrlShortner">Django URL Shortner</span>
         </div>
         <HomeScreen />
       </>
     </ThemeProvider>
   );
 };
-//<span className="PoweredByDscTiet">Powered By DSC TIET</span>
 export default App;
